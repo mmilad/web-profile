@@ -1,0 +1,36 @@
+@import './index.scss';
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+h4 {
+    margin-bottom: 12px;
+    color: rgba($pimary_color, 0.6);
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 600;
+}
+
+li,
+p,
+span {
+    font-size: 14px;
+}
+
+u {
+    font-weight: 500;
+}

@@ -1,0 +1,11 @@
+@import './../../style/index.scss'; 
+
+.experience-section {
+    .experience-item {
+        margin-bottom: 32px;
+    }
+
+    .experience-item-headline h3 {
+        display: inline-block;
+    }
+}

@@ -1,0 +1,24 @@
+@import './../../style/index.scss'; 
+
+.profile-header {
+    .profile-picture img {
+        display: block;
+        width: 100%;
+    }
+    .job-description {
+        margin-top: 0.6em;
+    }
+
+    h2 {
+        margin-bottom: 4px;
+    }
+    .address {
+        margin-bottom: 20px;
+    }
+
+    .contact-detail {
+        display: flex;
+        margin-bottom: 8px;
+        gap: 4px;
+    }
+}
