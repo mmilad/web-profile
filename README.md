@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Web Profile
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Create you webprofile with a simple configuration.
+Copy `src/config.example.js` to `config.js` and start editing.
+
 
 ## Available Scripts
 
